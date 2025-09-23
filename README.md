@@ -17,15 +17,15 @@
 2. 매물 목록: 등록된 매물을 꺼내 리스트에 보여주거나 지도에 마커를 찍어 보여줍니다
 
 ## 📸 프로젝트 화면
-![메인 화면](./screenshots/메인.png)<br><br>
-![메인 화면](./screenshots/마이페이지.png)<br><br>
-![메인 화면](./screenshots/매물목록페이지.png)<br><br>
-![메인 화면](./screenshots/매물상세페이지.png)<br><br>
-![메인 화면](./screenshots/지도.png)<br><br>
-![메인 화면](./screenshots/즐겨찾기.png)<br><br>
-![메인 화면](./screenshots/뉴스.png)<br><br>
-![메인 화면](./screenshots/날씨.png)<br><br>
-![메인 화면](./screenshots/공지사항.png)<br><br>
+![메인 화면](./screenshots/메인.png)<br><hr><br>
+![메인 화면](./screenshots/마이페이지.png)<br><hr><br>
+![메인 화면](./screenshots/매물목록페이지.png)<br><hr><br>
+![메인 화면](./screenshots/매물상세페이지.png)<br><hr><br>
+![메인 화면](./screenshots/지도.png)<br><hr><br>
+![메인 화면](./screenshots/즐겨찾기.png)<br><hr><br>
+![메인 화면](./screenshots/뉴스.png)<br><hr><br>
+![메인 화면](./screenshots/날씨.png)<br><hr><br>
+![메인 화면](./screenshots/공지사항.png)<br><hr><br>
 
 
 
