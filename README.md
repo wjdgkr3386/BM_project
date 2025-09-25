@@ -10,7 +10,7 @@
 - DB: MySQL, SQLite3(개발)
 - 라이브러리: Bootstrap
 - 도구/개발환경: PyCham, Git/GitHub
-- API: 날씨(OpenWeather), 지도(Kakao Maps), 뉴스(News API), 지오코딩
+- API: 날씨(OpenWeather), 지도(Kakao Maps), 뉴스(News API), 지오코딩(Geocoding API)
 
 ## 💡 주요 기능
 1. 매물 등록: 매물의 이름, 주소, 가격 등 데이터를 받아 저장합니다
