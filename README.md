@@ -12,11 +12,14 @@
 - 도구/개발환경: PyCham, Git/GitHub
 - API: 날씨(OpenWeather), 지도(Kakao Maps), 뉴스(News API), 지오코딩(Geocoding API)
 
-## 💡 주요 기능
+## 주요 기능
 1. 매물 등록: 매물의 이름, 주소, 가격 등 데이터를 받아 저장합니다
 2. 매물 목록: 등록된 매물을 꺼내 리스트에 보여주거나 지도에 마커를 찍어 보여줍니다
 
-## 📸 프로젝트 화면
+## 맡은 역할
+- 여러 API 연동, 즐겨찾기, 매물 관리, 마이페이지 등
+
+## 프로젝트 화면
 ![메인 화면](./screenshots/메인.png)<br><hr><br>
 ![메인 화면](./screenshots/마이페이지.png)<br><hr><br>
 ![메인 화면](./screenshots/매물목록페이지.png)<br><hr><br>
