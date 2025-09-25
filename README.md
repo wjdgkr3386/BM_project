@@ -8,7 +8,7 @@
 - 프레임워크: Django
 - 언어: Python, JavaScript, HTML, CSS
 - DB: MySQL, SQLite3(개발)
-- 라이브러리: Bootstrap
+- UI 라이브러리: Bootstrap
 - 도구/개발환경: PyCham, Git/GitHub
 - API: 날씨(OpenWeather), 지도(Kakao Maps), 뉴스(News API), 지오코딩(Geocoding API)
 
@@ -20,15 +20,24 @@
 - 여러 API 연동, 즐겨찾기, 매물 관리, 마이페이지 등
 
 ## 프로젝트 화면
+### 메인 화면 - 매물 미리보기를 볼 수 있습니다.
 ![메인 화면](./screenshots/메인.png)<br><hr><br>
-![메인 화면](./screenshots/마이페이지.png)<br><hr><br>
-![메인 화면](./screenshots/매물목록페이지.png)<br><hr><br>
-![메인 화면](./screenshots/매물상세페이지.png)<br><hr><br>
-![메인 화면](./screenshots/지도.png)<br><hr><br>
-![메인 화면](./screenshots/즐겨찾기.png)<br><hr><br>
-![메인 화면](./screenshots/뉴스.png)<br><hr><br>
-![메인 화면](./screenshots/날씨.png)<br><hr><br>
-![메인 화면](./screenshots/공지사항.png)<br><hr><br>
+### 마이페이지 - 내 정보를 보여줍니다. 내가 등록한 매물과 즐겨찾기한 매물을 확인할 수 있습니다.
+![마이페이지](./screenshots/마이페이지.png)<br><hr><br>
+### 매물 목록 - 매물 목록 리스트입니다. 별을 눌러 즐겨찾기를 할 수 있고 지역 카테고리를 통해 원하는 매물을 확인할 수 있습니다.
+![매물목록페이지](./screenshots/매물목록페이지.png)<br><hr><br>
+### 
+![매물상세페이지](./screenshots/매물상세페이지.png)<br><hr><br>
+### 
+![지도](./screenshots/지도.png)<br><hr><br>
+### 
+![즐겨찾기](./screenshots/즐겨찾기.png)<br><hr><br>
+### 
+![뉴스](./screenshots/뉴스.png)<br><hr><br>
+### 
+![날씨](./screenshots/날씨.png)<br><hr><br>
+### 
+![공지사항](./screenshots/공지사항.png)<br><hr><br>
 
 ## 문제점 및 해결방안
 ### 작품 개발 측면
